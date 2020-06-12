@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>HTML and CSS Form with Bootstrap 4</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <style type="text/css">
+      body {
+        background: #eee;
+      }
+      .wrapper {
+        margin: 80px;
+      }
+      .form-signin {
+        max-width: 380px;
+        margin: 0 auto;
+        background-color: #fff;
+        padding: 15px 40px 50px;
+        border: 1px solid #e5e5e5;
+        border-radius: 10px;
+      }
+      .form-signin .form-signin-heading,
+      .form-signin .checkbox {
+        margin-bottom: 30px;
+      }
+      #hyperlink {
+        margin-bottom: 30px;
+      }
+      .form-signin input[type="text"],
+      .form-signin input[type="password"] {
+        margin-bottom: 20px;
+      }
+      .form-signin .form-control {
+        padding: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <!--Nav bar to list features-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <a class="navbar-brand" href="#">GreanKart</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarSupportedContent"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Plants</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Pots</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Accessories</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Contact Us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Plant Care</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Cart</a>
+          </li>
+        </ul>
+        <ul class="navbar-nav mr-auto">
+          <li>
+            <form class="form-inline">
+              <input
+                class="form-control mr-sm-2"
+                type="search"
+                placeholder="Search"
+                aria-label="Search"
+              />
+              <button class="btn btn-light my-sm-0 btn-sm" type="submit">
+                Search
+              </button>
+            </form>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <!--Sign In form-->
+    <div class="wrapper">
+      <form class="form-signin">
+        <h2 class="form-signin-heading text-center">Login Form</h2>
+        <input
+          type="text"
+          class="form-control"
+          name="username"
+          placeholder="Email Address"
+          required=""
+          autofocus=""
+        />
+        <input
+          type="password"
+          class="form-control"
+          name="password"
+          placeholder="Password"
+          required=""
+        />
+        <div id="hyperlink" class="checkbox">
+          <a href="#" style="color: red;">Forgot Password</a>
+        </div>
+        <button class="btn btn-lg btn-primary btn-block">Login</button>
+      </form>
+    </div>
+  </body>
+</html>
