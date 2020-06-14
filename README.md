@@ -1,16 +1,22 @@
-#Assignment-2
+## Assignment-2
 Individual Assignment
 
+ ## Description
 The assignment is about creating appealing User Interface in order to provide better User Experience.This assignment focuses on creating user friendly interface 
 by applying design principles. I have created four web pages using HTML5 API's, Bootstrap, reactjs and CSS3.It follows guidelines of all the framworks used in Assignment.
 
-#Frameworks Used
+
+ ## Framework Used
+
 HTML5 and CSS3 are used to design webpages
 Bootstrap is used for making webpages responsive.
 React is used as a frontend framework.
 
 #Web Pages:
-1. First web page is the landing page of application GreenKart.[landing page](http://localhost:3000)
+1. First web page is the landing page (Home Page) of application GreenKart.[landing page](http://localhost:3000)
+2. Second page is Log in page of the appliication.[Login page page](http://localhost:3000/login)
+3. Third page is Product page of the application.[Product page](http://localhost:3000/product)
+4. Fourth page is Contact Us page of the application.[Contact Us page](http://localhost:3000/contact)
 
 
 [Optional] If what is being submitted is an individual Lab or Assignment. Otherwise, include a brief one paragraph description about the project.
