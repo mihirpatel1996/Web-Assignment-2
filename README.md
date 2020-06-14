@@ -1,6 +1,9 @@
 ## Assignment-2 Group-22
 Individual Assignment
 
+##GitHub Repository
+[Link](http://https://github.com/mihirpatel1996/Assignment-2)
+
  ## Description
 The assignment is about creating appealing User Interface in order to provide better User Experience.This assignment focuses on creating user friendly interface 
 by applying design principles. I have created four web pages using HTML5 API's, Bootstrap, reactjs and CSS3.It follows guidelines of all the framworks used in Assignment.
