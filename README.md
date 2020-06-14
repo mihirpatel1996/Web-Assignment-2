@@ -56,10 +56,10 @@ run `npm start` to run the project.
 ## Design of Webpages
 There are four web pages selected to design in this assignment.
 
-1.Home page
-2.Log In page
-3.Contact Us page
-4.Product page
+1. Home page
+2. Log In page
+3. Contact Us page
+4. Product page
 
 All the web pages are responsive in design to provide better UI for all different sizes of devices.
 In the application there are few colors which are used frequently in design to maintain consistency throughout design.
