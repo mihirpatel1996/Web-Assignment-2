@@ -1,7 +1,7 @@
 ## Assignment-2 Group-22
 Individual Assignment
 
-##GitHub Repository
+## GitHub Repository
 [Link](http://https://github.com/mihirpatel1996/Assignment-2)
 
  ## Description
