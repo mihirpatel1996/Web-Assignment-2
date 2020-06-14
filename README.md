@@ -2,7 +2,7 @@
 Individual Assignment
 
 ## GitHub Repository
-[Link](http://https://github.com/mihirpatel1996/Assignment-2)
+[Link](http://github.com/mihirpatel1996/Assignment-2)
 
  ## Description
 The assignment is about creating appealing User Interface in order to provide better User Experience.This assignment focuses on creating user friendly interface 
