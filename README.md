@@ -1,5 +1,29 @@
-# Web-Assignment-2
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Assignment-2
+Individual Assignment
+
+The assignment is about creating appealing User Interface in order to provide better User Experience.This assignment focuses on creating user friendly interface 
+by applying design principles. I have created four web pages using HTML5 API's, Bootstrap, reactjs and CSS3.It follows guidelines of all the framworks used in Assignment.
+
+#Frameworks Used
+HTML5 and CSS3 are used to design webpages
+Bootstrap is used for making webpages responsive.
+React is used as a frontend framework.
+
+#Web Pages:
+1. First web page is the landing page of application GreenKart.[landing page](http://localhost:3000)
+
+
+[Optional] If what is being submitted is an individual Lab or Assignment. Otherwise, include a brief one paragraph description about the project.
+
+* Date Created: 10 06 2020
+* Last Modification Date: 13 06 2020
+
+## Authors
+
+If what is being submitted is an individual Lab or Assignment, you may simply include your name and email address. Otherwise list the members of your group.
+
+* [Mihir Patel](mh47507@dal.ca)
+
 
 ## Available Scripts
 
