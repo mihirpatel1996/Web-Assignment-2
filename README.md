@@ -60,7 +60,7 @@ There are four web pages selected to design in this assignment.
 3. Contact Us page
 4. Product page
 
-All the web pages are responsive in design to provide better UI for all different sizes of devices.
+All the web pages are responsive `(Bootstrap, W3schools, 2020)` in design to provide better UI for all different sizes of devices.
 In the application there are few colors which are used frequently in design to maintain consistency throughout design.
 All of the Web pages maintain similar design to maintain familiarity while using.
 
@@ -134,23 +134,20 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/an
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### References
-1. W3schools. (2020). Website for learnig bootstrap [web tutorial] Retrieved from https://www.w3schools.com/bootstrap4/
-2. Bootstrap. (2020). Bootstrap components user guide  [web document] Retrieved from https://getbootstrap.com/docs/4.0/components/alerts/
-3. React js. (2020). User guide React js [web document] Retrieved from https://reactjs.org/tutorial/tutorial.html
-4. Youtube. (2020). React js tutorials [video tutorial] Retrieved from (https://www.youtube.com/watch?v=Ke90Tje7VS0&t=1257s).
-5. Heroku. (2020). Application deployment on Heoku with GitHub [web document] Retrieved from (https://devcenter.heroku.com/articles/git).
-6. Heroku. (2020). Application deployment on AWS with Github [web user guide] Retrieved from (https://docs.aws.amazon.com/amplify/latest/userguide/getting-started.html)
-
-
-
-
 ### Deployment
 
 Deployment is done on AWS as heroku was giving error while deploying.
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+### References
+1. W3schools. (2020). Website for learnig bootstrap [web tutorial] Retrieved from https://www.w3schools.com/bootstrap4/
+2. Bootstrap. (2020). Bootstrap components user guide  [web document] Retrieved from https://getbootstrap.com/docs/4.0/components/alerts/
+3. React js. (2020). User guide React js [web document] Retrieved from https://reactjs.org/tutorial/tutorial.html
+4. Youtube. (2020). React js tutorials [video tutorial] Retrieved from https://www.youtube.com/watch?v=Ke90Tje7VS0&t=1257s
+5. Heroku. (2020). Application deployment on Heoku with GitHub [web document] Retrieved from https://devcenter.heroku.com/articles/git
+6. AWS Amplify. (2020). Application deployment on AWS with Github [web user guide] Retrieved from https://docs.aws.amazon.com/amplify/latest/userguide/getting-started.html
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
