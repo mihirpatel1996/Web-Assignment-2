@@ -49,7 +49,7 @@ Node js should be installed in the system.
 ### Installing
 First, you need to download or clone the project from [github repository](https://github.com/mihirpatel1996/Assignment-2) if needed to install.
 Run:
-### `git clone `[github repository](https://github.com/mihirpatel1996/Assignment-2)
+### `git clone `https://github.com/mihirpatel1996/Assignment-2
 clone will download repository in your current directory.
 
 In the downloaded repository, you can run:
