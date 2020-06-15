@@ -63,16 +63,31 @@ There are four web pages selected to design in this assignment.
 
 All the web pages are responsive in design to provide better UI for all different sizes of devices.
 In the application there are few colors which are used frequently in design to maintain consistency throughout design.
-All of the Web pages maintain similar design in all the web pages to maintain familiarity while using.
+All of the Web pages maintain similar design to maintain familiarity while using.
 
 ### colors
 Colors in the application used are combination of light and dark colors to differentiate different components of application.
 
 There are only few colors mainly used in all the web pages which are black, green and red.
-Black color is used in navigation bar across four pages because the color stands out at first glance to any web page. Navbar with black color is instantly recognizable and it has most used feature of any website.
+Black color is used in navigation bar across four pages because the color stands out at first glance in any web page. Navbar with black color is instantly recognizable and it has most used feature of any website.
 White color is used for fonts in navigation bar to easily regonize links.
-Green color is used in other elements of design as application is for branding and selling plants and accessories online.
-Other reason to use green in design is to give contrast to the navigation bar design.
+Blue color is used in other elements of design, reason is to give contrast to the navigation bar design.
+
+### Key Design Elements
+#### Navigation bar
+Navigation bar is one of the most important features of website design as it coontains most of the key links to different pages or sections of application.
+All the links of the application are are available at first glance to user in navigation bar.
+Navigation bar consists Plants, Accessories, Pots, Plant care, Contact Us and Sign in links.
+Website name is clearly visible in the left corner of navigation bar.
+Navigation bar is placed in every webpage to quickly navigate from one section to another.
+There is a search functionality in navigaton bar to search for any product.
+
+#### Footer
+Footer is designed to give user access to most important links.
+It is divided in three sections.
+First section is about company and social media links to promote website.
+Second section has important links use can access to st that user doesnt have to go to nav bar to navigate between pages.
+Third section has address of the company and contact information.
 
 ### Home Page
 Home page is the landing page of the application which comprises different components like navigation bar, and a carousel.
@@ -91,9 +106,18 @@ Review, Price, Produc Description, Buy Now and add to cart options are made avai
 Comment section is added below product detail section of webpage to give feedback about products.
 User is able to post their comments in the coment section.
 
-### 
+### Sign in Page
+Sign in page has sign in form which asks for user email and password to authenticate user.
+It contains two links forgot password and sign up page link if user is not registered.
+The links are of red color to highlight both the links.
 
 ### Contact Us Page
+Contact us page contains contact form and frequently asked questions section.
+Besides contact us form google map of company location is set.
+Freuently asked questions are very useful for a beginner gardeners to get some information from the community.
+
+All the webpags and elements of the web application are responsive.
+
 
 ## Learn More
 
