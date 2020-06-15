@@ -136,12 +136,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 
 ### References
 1. W3schools. (2020). Website for learnig bootstrap [web tutorial] Retrieved from https://www.w3schools.com/bootstrap4/
-2. Bootstrap. (2020). website[website]Retrieved from https://getbootstrap.com/docs/4.0/components/alerts/.
-3. React js website [web document](https://reactjs.org/tutorial/tutorial.html).
-4. React js tutorials [video tutorial](https://www.youtube.com/watch?v=Ke90Tje7VS0&t=1257s).
-5. Application deployment on Heoku with GitHub[web document](https://devcenter.heroku.com/articles/git).
-6. Application deployment on AWS with Github[web user guide](https://docs.aws.amazon.com/amplify/latest/userguide/getting-started.html)
-W3schools. (2020). Retrieved from https://www.w3schools.com/bootstrap4/
+2. Bootstrap. (2020). Bootstrap components user guide  [web document] Retrieved from https://getbootstrap.com/docs/4.0/components/alerts/
+3. React js. (2020). User guide React js [web document] Retrieved from https://reactjs.org/tutorial/tutorial.html
+4. Youtube. (2020). React js tutorials [video tutorial] Retrieved from (https://www.youtube.com/watch?v=Ke90Tje7VS0&t=1257s).
+5. Heroku. (2020). Application deployment on Heoku with GitHub [web document] Retrieved from (https://devcenter.heroku.com/articles/git).
+6. Heroku. (2020). Application deployment on AWS with Github [web user guide] Retrieved from (https://docs.aws.amazon.com/amplify/latest/userguide/getting-started.html)
+
 
 
 
