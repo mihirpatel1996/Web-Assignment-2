@@ -15,10 +15,10 @@ Bootstrap is used for making webpages responsive and
 React is used as a frontend framework.
 
  ## Web pages:
-1. First web page is the landing page (Home Page) of application GreenKart.[landing page](http://localhost:3000)
-2. Second page is Log in page of the appliication.[Login page page](http://localhost:3000/login)
-3. Third page is Product page of the application.[Product page](http://localhost:3000/product)
-4. Fourth page is Contact Us page of the application.[Contact Us page](http://localhost:3000/contact)
+1. First web page is the landing page (Home Page) of application GreenKart. [Landing page](http://localhost:3000)
+2. Second page is Log in page of the appliication. [Login page page](http://localhost:3000/login)
+3. Third page is Product page of the application. [Product page](http://localhost:3000/product)
+4. Fourth page is Contact Us page of the application. [Contact Us page](http://localhost:3000/contact)
 
 
 * Date Created: 10 06 2020
@@ -48,8 +48,21 @@ Node js should be installed in the system.
 
 ### Installing
 First, you need to download or clone the project from [github repository](https://github.com/mihirpatel1996/Assignment-2) if needed to install.
-run `npm install` in the repository downloaded.
-run `npm start` to run the project.
+Run:
+### `git clone `[github repository](https://github.com/mihirpatel1996/Assignment-2)
+clone will download repository in your current directory.
+
+In the downloaded repository, you can run:
+### `npm install`
+Installs all the dependecies needed to run priject.
+
+Now run,
+### `npm start`
+
+This the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+Project is be running on your local machine on port 3000.<br />
 
 
 ## Design of Webpages
