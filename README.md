@@ -1,4 +1,4 @@
-## Assignment-2 Group-22
+## Assignment-2 Group-22 (B00847033)
 Individual Assignment
 
 ## GitHub Repository
@@ -25,7 +25,7 @@ React is used as a frontend framework.
 * Last Modification Date: 13 06 2020
 
 ## Authors
-* [Mihir Patel](mh47507@dal.ca)
+* [Mihir Patel] (B00847033)
 
 
 ## Prerequisits
