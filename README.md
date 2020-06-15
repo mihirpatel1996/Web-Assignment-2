@@ -10,7 +10,6 @@ by applying design principles. I have created four web pages using HTML5 API's, 
 
 
  ## Frameworks Used
-
 HTML5 and CSS3 are used to design webpages, 
 Bootstrap is used for making webpages responsive and
 React is used as a frontend framework.
@@ -65,10 +64,11 @@ All the web pages are responsive in design to provide better UI for all differen
 In the application there are few colors which are used frequently in design to maintain consistency throughout design.
 All of the Web pages maintain similar design to maintain familiarity while using.
 
+
 ### colors
 Colors in the application used are combination of light and dark colors to differentiate different components of application.
 
-There are only few colors mainly used in all the web pages which are black, green and red.
+Colors mainly used in all the web pages which are black, blue and red.
 Black color is used in navigation bar across four pages because the color stands out at first glance in any web page. Navbar with black color is instantly recognizable and it has most used feature of any website.
 White color is used for fonts in navigation bar to easily regonize links.
 Blue color is used in other elements of design, reason is to give contrast to the navigation bar design.
@@ -116,9 +116,6 @@ Contact us page contains contact form and frequently asked questions section.
 Besides contact us form google map of company location is set.
 Freuently asked questions are very useful for a beginner gardeners to get some information from the community.
 
-All the webpags and elements of the web application are responsive.
-
-
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -137,11 +134,20 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/an
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
+### References
+1.W3schools. (2020). Website for learnig bootstrap [web tutorial] Retrieved from https://www.w3schools.com/bootstrap4/
+2. Bootstrap. (2020). website[website]Retrieved from https://getbootstrap.com/docs/4.0/components/alerts/.
+3. React js website [web document](https://reactjs.org/tutorial/tutorial.html).
+4. React js tutorials [video tutorial](https://www.youtube.com/watch?v=Ke90Tje7VS0&t=1257s).
+5. Application deployment on Heoku with GitHub[web document](https://devcenter.heroku.com/articles/git).
+6. Application deployment on AWS with Github[web user guide](https://docs.aws.amazon.com/amplify/latest/userguide/getting-started.html)
+W3schools. (2020). Retrieved from https://www.w3schools.com/bootstrap4/
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
 
 ### Deployment
+
+Deployment is done on AWS as heroku was giving error while deploying.
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
