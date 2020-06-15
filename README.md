@@ -10,9 +10,9 @@ by applying design principles. I have created four web pages using HTML5 API's, 
 
 
  ## Frameworks Used
-HTML5 and CSS3 are used to design webpages, 
-Bootstrap is used for making webpages responsive and
-React is used as a frontend framework.
+HTML5 and CSS3 are used to design webpages`(HTML, CSS, 2020)`, 
+Bootstrap is used for making webpages responsive `(Bootstrap, W3schools, 2020)` and
+React is used as a frontend framework`(React js, Youtube, 2020)`.
 
  ## Web pages:
 1. First web page is the landing page (Home Page) of application GreenKart. [Landing page](http://localhost:3000)
@@ -25,7 +25,7 @@ React is used as a frontend framework.
 * Last Modification Date: 13 06 2020
 
 ## Authors
-* [Mihir Patel] (B00847033)
+* Mihir Patel (B00847033)
 
 
 ## Prerequisits
@@ -60,7 +60,7 @@ There are four web pages selected to design in this assignment.
 4. Product page
 
 All the web pages are responsive `(Bootstrap, W3schools, 2020)` in design to provide better UI for all different sizes of devices.
-In the application there are few colors which are used frequently in design to maintain consistency throughout design.
+In the application there are few colors which are used `(CSS, 2020)` frequently in design to maintain consistency throughout design.
 All of the Web pages maintain similar design to maintain familiarity while using.
 
 
@@ -74,7 +74,7 @@ Blue color is used in other elements of design, reason is to give contrast to th
 
 ### Key Design Elements
 #### Navigation bar
-Navigation bar is one of the most important features of website design as it contains most of the key links to different pages or sections of application.
+Navigation bar `(Bootstrap, 2020)` is one of the most important features of website design as it contains most of the key links to different pages or sections of application.
 All the links of the application are are available at first glance to user in navigation bar.
 Navigation bar consists Plants, Accessories, Pots, Plant care, Contact Us and Sign in links.
 Website name is clearly visible in the left corner of navigation bar.
@@ -82,7 +82,7 @@ Navigation bar is placed in every webpage to quickly navigate from one section t
 There is a search functionality in navigaton bar to search for any product.
 
 #### Footer
-Footer is designed to give user access to most important links.
+Footer is designed `(CSS,HTML, 2020)`to give user access to most important links.
 It is divided in three sections.
 First section is about company and social media links to promote website.
 Second section has important links use can access to st that user doesnt have to go to nav bar to navigate between pages.
@@ -115,23 +115,6 @@ Contact us page contains contact form and frequently asked questions section.
 Besides contact us form google map of company location is set.
 Freuently asked questions are very useful for a beginner gardeners to get some information from the community.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 ### Deployment
 
