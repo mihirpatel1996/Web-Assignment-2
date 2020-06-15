@@ -28,25 +28,10 @@ React is used as a frontend framework.
 * [Mihir Patel](mh47507@dal.ca)
 
 
-## Available Scripts
-
-In the project directory, you can run:
-### `npm install`
-Installs all the dependecies needed to run priject.
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-Project is be running on your local machine on port 3000.<br />
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
 ## Prerequisits
 Node js should be installed in the system.
 
-### Installing
+## Installing
 First, you need to download or clone the project from [github repository](https://github.com/mihirpatel1996/Assignment-2) if needed to install.
 Run:
 ### `git clone `https://github.com/mihirpatel1996/Assignment-2
@@ -54,7 +39,7 @@ clone will download repository in your current directory.
 
 In the downloaded repository, you can run:
 ### `npm install`
-Installs all the dependecies needed to run priject.
+Installs all the dependecies needed to run project.
 
 Now run,
 ### `npm start`
@@ -64,6 +49,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Project is be running on your local machine on port 3000.<br />
 
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 ## Design of Webpages
 There are four web pages selected to design in this assignment.
@@ -88,7 +74,7 @@ Blue color is used in other elements of design, reason is to give contrast to th
 
 ### Key Design Elements
 #### Navigation bar
-Navigation bar is one of the most important features of website design as it coontains most of the key links to different pages or sections of application.
+Navigation bar is one of the most important features of website design as it contains most of the key links to different pages or sections of application.
 All the links of the application are are available at first glance to user in navigation bar.
 Navigation bar consists Plants, Accessories, Pots, Plant care, Contact Us and Sign in links.
 Website name is clearly visible in the left corner of navigation bar.
@@ -149,17 +135,19 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 
 ### Deployment
 
-Deployment is done on AWS as heroku was giving error while deploying.
+Deployment is done on AWS`(AWS, 2020)` as heroku`(Heroku, 2020)` was giving error while deploying.
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### References
-1. W3schools. (2020). Website for learnig bootstrap [web tutorial] Retrieved from https://www.w3schools.com/bootstrap4/
-2. Bootstrap. (2020). Bootstrap components user guide  [web document] Retrieved from https://getbootstrap.com/docs/4.0/components/alerts/
-3. React js. (2020). User guide React js [web document] Retrieved from https://reactjs.org/tutorial/tutorial.html
-4. Youtube. (2020). React js tutorials [video tutorial] Retrieved from https://www.youtube.com/watch?v=Ke90Tje7VS0&t=1257s
-5. Heroku. (2020). Application deployment on Heoku with GitHub [web document] Retrieved from https://devcenter.heroku.com/articles/git
-6. AWS Amplify. (2020). Application deployment on AWS with Github [web user guide] Retrieved from https://docs.aws.amazon.com/amplify/latest/userguide/getting-started.html
+1. HTML. (2020). HTML5 Guiddde and Coding Conventions [web document] Retrieved from https://www.w3schools.com/htmL/html5_syntax.asp
+2. CSS. (2020). CSS3 tutorials [web tutorials] Retrieved from https://www.w3schools.com/css/
+3. Bootstrap. (2020). Bootstrap components user guide  [web document] Retrieved from https://getbootstrap.com/docs/4.0/components/alerts/
+4. React js. (2020). User guide React js [web document] Retrieved from https://reactjs.org/tutorial/tutorial.html
+5. Youtube. (2020). React js tutorials [video tutorial] Retrieved from https://www.youtube.com/watch?v=Ke90Tje7VS0&t=1257s
+6. Heroku. (2020). Application deployment on Heoku with GitHub [web document] Retrieved from https://devcenter.heroku.com/articles/git
+7. AWS Amplify. (2020). Application deployment on AWS with Github [web user guide] Retrieved from https://docs.aws.amazon.com/amplify/latest/userguide/getting-started.html
+
 
 
 
