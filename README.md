@@ -135,7 +135,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/an
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 ### References
-1.W3schools. (2020). Website for learnig bootstrap [web tutorial] Retrieved from https://www.w3schools.com/bootstrap4/
+1. W3schools. (2020). Website for learnig bootstrap [web tutorial] Retrieved from https://www.w3schools.com/bootstrap4/
 2. Bootstrap. (2020). website[website]Retrieved from https://getbootstrap.com/docs/4.0/components/alerts/.
 3. React js website [web document](https://reactjs.org/tutorial/tutorial.html).
 4. React js tutorials [video tutorial](https://www.youtube.com/watch?v=Ke90Tje7VS0&t=1257s).
