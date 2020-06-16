@@ -1,5 +1,7 @@
 ## Assignment-2 Group-22 (B00847033)
 Individual Assignment
+## Link of deployed application
+[Link](https://master.d26tebmvx4ent4.amplifyapp.com/)
 
 ## GitHub Repository
 [Link](http://github.com/mihirpatel1996/Assignment-2)
@@ -17,8 +19,10 @@ React is used as a frontend framework`(React js, Youtube, 2020)`.
  ## Web pages:
 1. First web page is the landing page (Home Page) of application GreenKart. [Landing page](http://localhost:3000)
 2. Second page is Log in page of the appliication. [Login page page](http://localhost:3000/login)
-3. Third page is Product page of the application. [Product page](http://localhost:3000/product)
+3. Third page is Product page of the application. [Product page](http://localhost:3000/product)Can be accessed by link in plant section
 4. Fourth page is Contact Us page of the application. [Contact Us page](http://localhost:3000/contact)
+
+###Endpoints may not work in the deployed application but they are working locally
 
 
 * Date Created: 10 06 2020
