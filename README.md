@@ -1,4 +1,4 @@
-## Assignment-2 Group-22
+## Assignment-2
 Individual Assignment
 ## Link of deployed application
 [Link](https://master.d26tebmvx4ent4.amplifyapp.com/)
