@@ -1,4 +1,4 @@
-## Assignment-2 Group-22 (B00847033)
+## Assignment-2 Group-22
 Individual Assignment
 ## Link of deployed application
 [Link](https://master.d26tebmvx4ent4.amplifyapp.com/)
